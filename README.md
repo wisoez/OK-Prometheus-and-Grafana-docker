@@ -12,7 +12,7 @@ Additional info: [Docker - Prometheus and Grafana](https://bogotobogo.com/DevOps
 
 ## Install
 
-### Create .env:
+### Create .env - this is basic auth account:
 ```
 ADMIN_USER=admin  
 ADMIN_PASSWORD=admin
